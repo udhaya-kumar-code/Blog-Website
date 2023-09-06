@@ -1,0 +1,44 @@
+Blog Website -Requiements:
+		
+		*Home page with all blog posts(title and author).
+		
+		*Use pagination ,display only 10 blog posts.
+		
+		*After user clicks on the title of blog ,the user need
+	to be navigated to the complete blog post 
+		
+		*Add login Functionality.
+	(assuming users already registered)
+		
+		*A user can create a new blog post
+		A user can update a blog post
+		A user can delete a blog post
+		A user cannot be able to update or delete 
+	others blog post(for this all user should be logged in)
+
+
+Blog Website -Optional:
+		
+		*Users can be able to make add comments to blog post
+		
+
+Blog Website -Technologies:
+
+		*HTML
+		*CSS
+		*JavaScript
+		*Typescript
+		*Agile
+		*GIT
+		
+
+EXECUTION part:
+	First basic html bootstrap part -
+	then 5 blog pages -
+	and one login page - 
+	and one create page -
+	create update delete buttons for only users who logged in -
+	manipulate the home page when creating new blog by users -
+	
+
+

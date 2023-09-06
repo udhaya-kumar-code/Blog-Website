@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "udhaya@gmail.com",
+      "password": "udhaya"
+    },
+    {
+      "id": 2,
+      "email": "adam@gmail.com",
+      "password": "adam"
+    },
+    {
+      "id": 3,
+      "email": "yorichi@gmail.com",
+      "password": "yorichi"
+    },
+    {
+      "id": 4,
+      "email": "yokesh@gmail.com",
+      "password": "yokesh"
+    },
+    {
+      "id": 5,
+      "email": "abc@email.com",
+      "password": "123"
+    },
+    {
+      "id": 6,
+      "email": "def@email.com",
+      "password": "456"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Fujii Kaze Albums",
+      "content": "Sometimes you get into artists in the strangest of ways.My introduction to one of Japan’s newest pop stars was via his album cover. Which is why I ALWAYS bang on about how important it is for artists to have GOOD ALBUM COVERS. I saw it pop up on my timeline and I just thought it was such a cool photo and wanted to know who it was of, and from there I was thrown headfirst into the rabbit hole of Kaze Fujii. Kaze is part of a new generation of male pop stars, alongside the likes of Kenshi Yonezu who have achieved success online on the one platform that the Japanese music industry at large seems to hate. YouTube. Kaze rose to popularity via posting original material and covers of songs online, which garnered him a following so sizable that he was able to hold one man shows at venues before he even had a record deal. This is something I feel I have to mention before I get into Kaze’s debut album, to set the precedent of how polished it is for a debut. This isn’t an album where an artist is trying to figure out his sound and his angle. It’s an album from an artist who has a very clear vision for their sound, because they’ve been living it for years.",
+      "author": "Udhay"
+    },
+    {
+      "title": "Across The Spider-Verse by Metro Boomin",
+      "content": "Companion albums to films seem to be all the rage these days, next to a film’s original score moviegoers can also expect a series of “Songs Inspired by X film” to coincide with the film’s release. Looking at hip-hop specifically, I’d argue that this trend became popularized with the TDE/Kendrick Lamar curated Black Panther: The Album. As years have gone by we’ve seen other blockbuster films with original songs such as Shang Chi, The Fast & Furious series, etc.\n\nUnsurprisingly, the first Into The Spider-Verse also had an album full of material made for the movie featuring a variety of artists such as Post Malone, Swae Lee, Jaden Smith, and more. This time with the sequel Across The Spider-Verse, producer Metro Boomin helms this film’s companion album just a few short months after dropping Heroes & Villains. Across The Spider-Verse isn’t going to blow you away by any means, but is a nice addition that fans of the films are going to enjoy.",
+      "author": "Anonymous",
+      "id": 2
+    },
+    {
+      "title": "Justin Bieber's Achievement ",
+      "content": "Love him or hate him, you can't deny Justin Bieber has changed the landscape of pop music as a whole. Ever since his rise in the early 2010s, the Canadian artist has turned millions of people into 'Beliebers' with his heartthrob-y brand of bouncy tunes. He's sold over 78 million albums worldwide, is the #1 streamed artist on Spotify, two Grammy Awards, 26 Billboard Music Awards, and 33 Guinness World Records...and that's just touching the surface of all his achievements!",
+      "author": "Udhay",
+      "id": 3
+    },
+    {
+      "title": "Bruno Mars hits",
+      "content": "Almost everyone on the planet has heard of Bruno Mars. With more than 27 million followers on Twitter and four Grammys, Bruno Mars will never be forgotten. After going on a four-year break, Bruno Mars came out with new album 24k Magic this year. One would think after being gone for so long, it would be difficult to make a successful comeback, but for Bruno Mars, that isn’t the case. With his new album and a tour set for 2017, it seems as if he never left. Before going on stage himself, Bruno Mars was composing songs for other singers like Jay-Z, Ceelo Green, and more. This allowed him to focus on his talent without getting distracted by the spotlight. He was able to work with talented artists and get their feedback on his work.",
+      "author": "Anonymous",
+      "id": 4
+    },
+    {
+      "title": "Some artist",
+      "content": "ajddkg",
+      "author": "Anonymous",
+      "id": 5
+    },
+    {
+      "title": "Adele",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "author": "Anonymous",
+      "id": 6
+    }
+  ]
+}
